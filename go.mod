@@ -1,3 +1,3 @@
-module github.com/robteix/testmod/v2
+module github.com/xiebinge/testmod/v2
 
 go 1.18
