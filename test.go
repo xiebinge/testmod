@@ -8,6 +8,7 @@ import (
 
 // Hi returns a friendly greeting in language lang
 func Hi(name, lang string) (string, error) {
+
 	switch lang {
 	case "en":
 		return fmt.Sprintf("Hi, %s!", name), nil
